@@ -62,3 +62,7 @@ You need:
 ```bash
 nvcc Scharr_CUDA.cu -o Scharr_CUDA `pkg-config --cflags --libs opencv4`
 ./Scharr_CUDA
+```
+
+## External Links
+Video Presentation: https://youtu.be/iJHPFc4jMaI
