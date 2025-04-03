@@ -43,7 +43,7 @@ Each CUDA version leverages specific memory strategies to optimize performance a
 | SP 3   | 2323.1      | 12.001              | 20.110               | 8.107                |
 | ...    | ...         | ...                 | ...                  | ...                  |
 
-> Full tables in `docs/CUDA_Scharr_Tables_Microseconds.docx`
+> Full tables in `Conference Paper`
 
 ### 5. 📹 Demo Video
 **Watch it here:** [👉 *[(https://youtu.be/iJHPFc4jMaI)*](#)
